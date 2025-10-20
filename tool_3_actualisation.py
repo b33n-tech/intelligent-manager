@@ -48,7 +48,6 @@ Fusion :
 - Ne supprime rien sans justification
 
 Sortie :
-- Rends un JSON complet prêt à sauvegarder
 - Inclue un mini-journal des changements :
   + Ajouts
   ~ Mises à jour
