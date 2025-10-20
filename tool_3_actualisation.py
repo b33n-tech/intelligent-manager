@@ -27,7 +27,7 @@ Tu dois produire une **nouvelle version complète** avec :
 - Réorganisation si nécessaire
 - Identification des sous-actions et dépendances
 - Fusion avec les éléments existants
-- Conservation de la structure JSON
+
 
 Instructions :
 - Ancien(s) élément(s) :
